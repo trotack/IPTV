@@ -570,7 +570,7 @@ http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1&amp;IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-name="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://upload.112114.xyz/logo/fazhitiandi.png" group-title="数字",SITV法治天地
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8
-#EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="数字",SITV法治天地
+#EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://upload.112114.xyz/logo/fazhitiandi.png" group-title="数字",SITV法治天地
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227176/index.m3u8?servicetype=1&amp;IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1,tvg-id="SITV金色学堂" tvg-name="SITV金色学堂"  tvg-logo="https://upload.112114.xyz/logo/SITV%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="数字",金色学堂
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -673,7 +673,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225654/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225655/2/index.m3u8
 #EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实.png" group-title="上海",纪实人文
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225946/index.m3u8?servicetype=1&amp;IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="上海",纪实人文
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实.png" group-title="上海",纪实人文
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227213/index.m3u8?servicetype=1&amp;IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227087/index.m3u8?servicetype=1&amp;IASHttpSessionId=RR423820220409134714119178
