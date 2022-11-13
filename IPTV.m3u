@@ -188,8 +188,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212281
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
 http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
-http://[2409:8087:1030:301:2025::28]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
 http://[2409:8087:1070:301:2028::16]:80/wh7f454c46tw4208334097_1010666651/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226300/10000100000000060000000000987372_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
@@ -234,6 +232,7 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227192/index.m3u
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="央视",中国教育4台
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225937/2/index.m3u8
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="央视",中国教育4台
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225969/2/index.m3u8
 #EXTINF:-1,tvg-id="CETV4" tvg-name="中国教育4台" tvg-logo="https://upload.112114.xyz/logo/CETV4.png" group-title="央视",中国教育4台
 http://[2409:8087:5011:1020::15]/180000001001/00000001000000001017000000440665/index.m3u8
 #EXTINF:-1,tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K  
