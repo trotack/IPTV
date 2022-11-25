@@ -734,8 +734,6 @@ http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&amp;IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港台", 凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港台", 凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="港台", TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="港台", TVBS新闻台
