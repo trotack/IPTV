@@ -669,11 +669,10 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225675/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225676/2/index.m3u8
 #EXTINF:-1,tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://raw.githubusercontent.com/trotack/IPTV/main/logo/BRTV%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="北京",BRTV纪实科教
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225944/index.m3u8?servicetype=1&amp;IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1,tvg-id="BRTV卡酷少儿" tvg-name="BRTV卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/BTV卡酷少儿.png" group-title="数字",BRTV卡酷少儿
+#EXTINF:-1,tvg-id="BRTV卡酷少儿" tvg-name="BRTV卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/BTV卡酷少儿.png" group-title="北京",BRTV卡酷少儿
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225677/2/index.m3u8
-#EXTINF:-1,tvg-id="BRTV卡酷少儿" tvg-name="BRTV卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/BTV卡酷少儿.png" group-title="数字",BRTV卡酷少儿
+#EXTINF:-1,tvg-id="BRTV卡酷少儿" tvg-name="BRTV卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/BTV卡酷少儿.png" group-title="北京",BRTV卡酷少儿
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225871/index.m3u8?servicetype=1&amp;IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1,tvg-id="BRTV卡酷少儿" tvg-name="BRTV卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/BTV卡酷少儿.png" group-title="数字",BRTV卡酷少儿
 #EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实.png" group-title="上海",纪实人文
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实.png" group-title="上海",纪实人文
