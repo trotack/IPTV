@@ -692,10 +692,6 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225873/index.m3u
 #EXTINF:-1,tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://epg.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225615/2/index.m3u8
 #EXTINF:-1,tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="数字",咪咕体育
-http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
-#EXTINF:-1,tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="数字",咪咕体育
-http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1,tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="数字",咪咕体育
 http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1,tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="数字",咪咕体育
 http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
